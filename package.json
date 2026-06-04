@@ -23,7 +23,7 @@
     "name": {
       "formatMessage": {
         "id": "max6675.name",
-        "default": "MAX6675 Module"
+        "default": "MAX6675"
       }
     },
     "extensionId": "max6675",
