@@ -1,8 +1,7 @@
 /* eslint-disable func-style */
 /* eslint-disable max-len */
 /* eslint-disable require-jsdoc */
-export default () => {
-    return `
+export default () => `
 <category name="%{BKY_MAX6675_CATEGORY}" id="MAX6675_CATEGORY" colour="#007979" secondaryColour="#005757">
     <block type="max6675_init" id="max6675_init">
         <field name="DO">2</field>
@@ -11,4 +10,3 @@ export default () => {
     </block>
     <block type="max6675_readTemperature" id="max6675_readTemperature"></block>
 </category>`;
-};
