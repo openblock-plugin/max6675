@@ -18,19 +18,19 @@
 export default {
     'interface': {
         'en': {
-            'max6675.name': 'MAX6675',
+            'max6675.name': 'MAX6675 Module',
             'max6675.description': 'K-type thermocouple temperature measurement module based on MAX6675, the measurement range is 0 ~ 1024 ℃'
         },
         'ru': {
-            'max6675.name': 'MAX6675',
+            'max6675.name': 'MAX6675 Module',
             'max6675.description': 'K-type thermocouple temperature measurement module based on MAX6675, the measurement range is 0 ~ 1024 ℃'
         },
         'zh-cn': {
-            'max6675.name': 'MAX6675',
+            'max6675.name': 'MAX6675 Module',
             'max6675.description': 'K-type thermocouple temperature measurement module based on MAX6675, the measurement range is 0 ~ 1024 ℃'
         },
         'zh-tw': {
-            'max6675.name': 'MAX6675',
+            'max6675.name': 'MAX6675 Module',
             'max6675.description': 'K-type thermocouple temperature measurement module based on MAX6675, the measurement range is 0 ~ 1024 ℃'
         }
     },
